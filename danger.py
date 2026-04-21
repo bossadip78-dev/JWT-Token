@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 # Developer credit
 DEV_CREDIT = "@jubayer_codex"
-DEV_TELEGRAM = "t.me/JUBAYER_API"
+DEV_TELEGRAM = "https://t.me/JUBAYER_API"
 
 # ---------- Version fetching with simple TTL cache ----------
 _versions_cache = {
